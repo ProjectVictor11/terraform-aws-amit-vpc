@@ -1,6 +1,8 @@
 Sample configuration to work with this module
 
 USAGE
+
+
 '''
 provider "aws" {
   region = "us-east-2"
